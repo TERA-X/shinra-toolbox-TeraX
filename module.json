@@ -1,7 +1,7 @@
 {
     "name": "shinra-meter",
-    "servers": ["https://raw.githubusercontent.com/KYGAS/shinra-toolbox-release/master/"],
-    "supportUrl": "https://github.com/KYGAS/shinra-toolbox-release/issues",
+    "servers": ["https://raw.githubusercontent.com/X0RPR0/shinra-toolbox-TeraX/master/"],
+    "supportUrl": "https://github.com/X0RPR0/shinra-toolbox-TeraX/issues",
     "author": "Foglio, Gl0, neowutran and others",
     "description": "Shinra DPS meter.",
     "disableAutoUpdate": false,
@@ -11,6 +11,6 @@
         "guiName": "Shinra Meter (beta)"
     },
     "dependencies": {
-        "external-interface": "https://raw.githubusercontent.com/KYGAS/external-interface/master/module.json"
+        "external-interface": "https://raw.githubusercontent.com/X0RPR0/external-interface/master/module.json"
     }
 }

@@ -1,2 +1,2 @@
-﻿5.9.22.110 EU 2800 VALKYTEQ | Tera Europe    
-5.9.93.198 EU 2801 VALKYTEQ | Tera Europe (QA)
+﻿5.9.22.110 EU 2800 ExVal | TERA X    
+5.9.93.198 EU 2801 ExVal | Tera X (QA)
