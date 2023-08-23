@@ -1,7 +1,6 @@
 {
 	"files": {
 		"Autoupdate.deps.json": "a4cbc818530dcef28d4a27bd04dbc0607dd4233f5dd4af3b5e26cb88f76ad533",
-		"Autoupdate.dll": "dee61f39ed31e621212ddf491c88f2ddf34a9a79e2680dc9a97a4fdb5b80d779",
 		"Autoupdate.dll.config": "fa40150f39f7db0b0ce579d62e3844ceaa54d8af1be4e51f1803f54278438014",
 		"Autoupdate.exe": "e553d90c1ce770afb658f0e7c77028013c48862cd8ef64b18e3971fa41342940",
 		"Autoupdate.runtimeconfig.json": "4c8a73c525364eac6cbe64191bc633ed1fc8c59db376660474f6834ce0b23800",
@@ -40,7 +39,6 @@
 		"SevenZipSharp.dll": "d131e70c5d0ad008f95b3775a014cd865de1d3802e8f065e82c504778685a656",
 		"SharpPcap.dll": "21c503dbc18755f735dd10dad497557a30f56e11a98cd44b06198067e2a68ac0",
 		"ShinraMeter.deps.json": "8e1e4c7abf3985058b11936c608bdd03872720243a67e5d14e9e8a8858372b36",
-		"ShinraMeter.dll": "f33a667017d8eea07381e6a2b8535015b41184a2a95b3551339455e7d072ee1b",
 		"ShinraMeter.dll.config": "2de750ae7d52c69256b45ed0b06176fd6df0d608a4e039b41e6b4dcca0f36e6e",
 		"ShinraMeter.exe": "5d3da126d513c0c8fb0ccc8b4014dca663fe7db9cef52971a0d5a910a1f13cf6",
 		"ShinraMeter.runtimeconfig.json": "4c8a73c525364eac6cbe64191bc633ed1fc8c59db376660474f6834ce0b23800",
@@ -91,7 +89,6 @@
 		"resources/config/window.xml": "bbc5fb08970297d77572a1f221e31dcd96934d6a3492845481b0ba9a721e0324",
 		"resources/config/window_backup.xml": "43dc576969b743b994118b5fdd68f16cb9d9c26376fa667edf0a2c24348f10a1",
 		"resources/data/LICENSE": "d62f065830aa3739cc031156b9690805c7b2e811b4a178c8b4acd8725d561c94",
-		"resources/data/README.md": "08360f69843461d7c737aac9c92cc7c79c4028cad0a030fc271c4164894c5d84",
 		"resources/data/class-icons/archer.png": "443e205979276fdb92244175782af8b0dd36289a430da609360999b0b40aba79",
 		"resources/data/class-icons/berserker.png": "6c97e7a09ee329dd6534b5e2f3ed73aa10a9704aa08080dcf9b03740d9fea6c7",
 		"resources/data/class-icons/brawler.png": "3812473d79fe2b0c568eb286123b3ca684651b3ea8d95ee971464100710a3fb5",
